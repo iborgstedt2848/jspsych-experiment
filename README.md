@@ -1,1 +1,1 @@
-# word_experiment
+# jspsych-experiment
